@@ -1,0 +1,1 @@
+"E:\UnrealEngine\UE_5.4\Engine\Binaries\Win64\UnrealEditor.exe" "%CD%\ActionGameProject.uproject" /Game/Maps/MainMenuMap -game -ResX=1280 -ResY=720 -WinX=0 -WinY=-30 -windowed

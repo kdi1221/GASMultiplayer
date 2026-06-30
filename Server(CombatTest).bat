@@ -1,0 +1,1 @@
+"E:\UnrealEngine\UE_5.4\Engine\Binaries\Win64\UnrealEditor.exe" "%CD%\ActionGameProject.uproject" CombatTestMap -server -log
